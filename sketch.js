@@ -7,7 +7,7 @@ var hospital , hospitalImg , hospitalG;
 var sanitizer , sanitizerImg,sanitizerG;
 var vaccine,vaccineImg;
 var roomImg;
-var gameState="inHospital";
+var gameState="running";
 var form,system,code,security;
 var score=0;
 var vaccination,vImg;
